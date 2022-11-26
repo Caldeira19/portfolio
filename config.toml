@@ -1,5 +1,5 @@
 baseURL = "https://ari-devlog.pages.dev"
-title = "arirocha"
+title = "lucas-caldeira"
 theme = "hugo-coder"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Ari Rocha"
+author = "Lucas Caldeira"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Blog pessoal de Ari Rocha"
-keywords = "blog,developer,personal"
+description = "Portfólio"
+keywords = "developer,personal"
 info = ["Full Stack DevOps", "Magician"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
@@ -143,13 +143,13 @@ url = "https://www.linkedin.com/in/arirocha/"
 
 [languages.pt-br]
 languageName = ":brazil:"
-title = "Ari Rocha"
+title = "Lucas Caldeira"
 
 [languages.pt-br.params]
-author = "Ari Rocha"
+author = "Lucas Caldeira"
 info = "Developer Full Stack DevOps"
-description = "Site pessoal de Ari Rocha"
-keywords = "blog,desenvolvedor,pessoal"
+description = "Portfólio de Lucas Caldeira"
+keywords = "desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
 name = "Blog"
