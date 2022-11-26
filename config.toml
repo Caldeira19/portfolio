@@ -152,21 +152,16 @@ description = "Portfólio de Lucas Caldeira"
 keywords = "desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 1
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
 name = "Projetos"
-weight = 2
+weight = 1
 url = "projetos/"
 
 [[languages.pt-br.menu.main]]
 name = "Contato"
-weight = 3
+weight = 2
 url = "contato/"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
-weight = 4
+weight = 3
 url = "sobre/"
