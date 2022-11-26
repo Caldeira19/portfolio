@@ -1,4 +1,4 @@
-baseURL = "https://ari-devlog.pages.dev"
+baseURL = "https://portfolio-3c9.pages.dev"
 title = "lucas-caldeira"
 theme = "hugo-coder"
 languageCode = "pt-br"
@@ -107,7 +107,7 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/arig4m3r/"
+url = "https://github.com/Caldeira19"
 
 # [[params.social]]
 # name = "Gitlab"
@@ -125,7 +125,7 @@ url = "https://github.com/arig4m3r/"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/arirocha/"
+url = "https://www.linkedin.com/in/lucas-caldeira-da-veiga/"
 
 # [[params.social]]
 # name = "Medium"
